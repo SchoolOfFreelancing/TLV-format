@@ -1,0 +1,2 @@
+* Version 2.1
+* Value encoding information from input data can now be mapped to tlve's internal value types. This is implemented by new keyword "type" in tag-length definition and "typemap" defition in configuration file.
